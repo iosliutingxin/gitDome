@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <RongIMKit/RongIMKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<RCIMUserInfoDataSource>
 
 
 @end
