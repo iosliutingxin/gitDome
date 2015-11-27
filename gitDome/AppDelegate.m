@@ -8,6 +8,7 @@
 
 #import "AppDelegate.h"
 #import "ViewController.h"
+#define RongAppky @"8luwapkvucvml";
 @interface AppDelegate ()
 
 @end
